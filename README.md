@@ -3,4 +3,4 @@ Let's go through Github tutorial!
 
 I need to learn to use this so I can commit code related to my research project.
 
-Check unicode: .&#2318
+Check unicode: &#2318;
